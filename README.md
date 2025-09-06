@@ -6,6 +6,17 @@ This project was created to ensure that no team member's special day is ever mis
 
 ---
 
+## 👥 Authors & Acknowledgements
+
+This project was co-developed by:
+
+*   **Sandip Kumar Paul** - [sandipkumarpaul](https://github.com/sandipkumarpaul)
+*   **Tanjila Afsari Rubina** - [tanjilaafsarirubina](https://github.com/tanjilaafsarirubina)
+
+This was a joint effort in conceptualizing, developing, and refining the automation script.
+
+---
+
 ## ✨ Features
 
 *   **Fully Automated:** Runs on a daily trigger, checks for birthdays, and sends emails without any manual intervention.
