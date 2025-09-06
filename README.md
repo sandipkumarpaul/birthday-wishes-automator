@@ -13,7 +13,7 @@ This project was co-developed by:
 *   **Sandip Kumar Paul** - [sandipkumarpaul](https://github.com/sandipkumarpaul)
 *   **Tanjila Afsari Rubina** - [tanjilaafsarirubina](https://github.com/tanjilaafsarirubina)
 
-This was a joint effort in conceptualizing, developing, and refining the automation script.
+This was a joint effort in conceptualizing, developing, and refining the automation script. This project was a fun learning experience in Google Apps Script!
 
 ---
 
