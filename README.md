@@ -6,7 +6,11 @@
 
 A Google Apps Script that reads a Google Sheet of names, email addresses and birthdays, and emails a personalized greeting to everyone whose birthday is today. It runs on Google's servers on a daily trigger, so once it is set up there is nothing to host and nothing to remember.
 
-We built it for our volunteer team so that nobody's birthday goes unnoticed.
+We built it for the volunteer team at the Bangladesh Social Action Network (BSAN), so that nobody's birthday goes unnoticed. Here is a real email it sent:
+
+![Gmail screenshot of a birthday email from The BSAN Team](docs/images/birthday-email.png)
+
+<sub>The message is BSAN's customized version of the default template. The date is hidden for privacy.</sub>
 
 ---
 
@@ -114,6 +118,7 @@ The test file loads `src/BirthdayWisher.gs` unmodified into a Node [`vm`](https:
 │   └── appsscript.json          # Apps Script manifest: V8 runtime and permissions
 ├── tests/
 │   └── birthdayWisher.test.js   # Node.js tests with mocked Apps Script services
+├── docs/images/                 # Screenshots used in this README
 ├── .github/workflows/ci.yml     # Runs the tests on every push and pull request
 └── package.json                 # Defines `npm test`; no dependencies
 ```
