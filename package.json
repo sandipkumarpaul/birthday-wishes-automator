@@ -1,0 +1,21 @@
+{
+  "name": "birthday-wishes-automator",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Google Apps Script that emails personalized birthday wishes to people listed in a Google Sheet.",
+  "license": "MIT",
+  "author": "Sandip Kumar Paul",
+  "contributors": [
+    "Tanjila Afsari Rubina"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandipkumarpaul/birthday-wishes-automator.git"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
